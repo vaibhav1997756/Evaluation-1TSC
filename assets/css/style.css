@@ -344,7 +344,7 @@ h5 {
 
 /* Section-7 */
  .section-7 {
-    background-image: url(/assesment1/assets/img/kar.jpg); 
+    background-image: url(../img/kar.jpg); 
     background-size: cover;
     text-align: center;
     background-repeat: no-repeat;
